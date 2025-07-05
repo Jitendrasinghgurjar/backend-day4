@@ -16,3 +16,4 @@ This mini project allows you to:
 ```bash
 npm install
 node server.js
+npx nodemon server.js
